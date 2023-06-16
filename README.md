@@ -8,3 +8,4 @@
 - [Integrate object detectors](https://www.tensorflow.org/lite/inference_with_metadata/task_library/object_detector)
 - [TensorFlow Lite Metadata Writer API](https://www.tensorflow.org/lite/models/convert/metadata_writer_tutorial#object_detectors)
 - [SSD MobileNet V2 TFlite Export Quantized with Metadata](https://nbviewer.org/github/quickgrid/CodeLab/blob/master/tensorflow/TFlite_Object_Detection_Custom_Model_Export_With_Metadata_TF2.ipynb)
+- [Install Python 3.8 kernel in Google Colaboratory](https://stackoverflow.com/questions/60775160/install-python-3-8-kernel-in-google-colaboratory)
