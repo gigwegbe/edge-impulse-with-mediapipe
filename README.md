@@ -1,4 +1,4 @@
-# edge-impulse-with-mediapipe
+# Edge Impulse with Mediapipe
 
 ## Reference 
 - [Adding metadata to TensorFlow Lite models](https://www.tensorflow.org/lite/models/convert/metadata)
