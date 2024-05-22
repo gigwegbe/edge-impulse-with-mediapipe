@@ -1,5 +1,9 @@
 # Edge Impulse with Mediapipe
 
+Image Classification Colab - Link 
+Object Detection Colab - [Link](https://colab.research.google.com/drive/1o6Ykx5TUcbJ6sGM0bYPgZVJCOm0ZnWt6#scrollTo=AOSTCUb2lPoI) 
+
+
 ## Reference 
 - [Adding metadata to TensorFlow Lite models](https://www.tensorflow.org/lite/models/convert/metadata)
 - [Adding metadata to TFLite models #5784](https://github.com/ultralytics/yolov5/issues/5784#issuecomment-1012632931)
@@ -10,3 +14,6 @@
 - [SSD MobileNet V2 TFlite Export Quantized with Metadata](https://nbviewer.org/github/quickgrid/CodeLab/blob/master/tensorflow/TFlite_Object_Detection_Custom_Model_Export_With_Metadata_TF2.ipynb)
 - [Install Python 3.8 kernel in Google Colaboratory](https://stackoverflow.com/questions/60775160/install-python-3-8-kernel-in-google-colaboratory)
 - [Object Detection model customization guide](https://ai.google.dev/edge/mediapipe/solutions/customization/object_detector)
+- [Getting started with object detection - ML on RPI](https://www.youtube.com/watch?v=-RUVM_cXn18)
+- [Object detection task guide](https://ai.google.dev/edge/mediapipe/solutions/vision/object_detector#models)
+- [MediaPipe Model Make](https://ai.google.dev/edge/mediapipe/solutions/model_maker)
